@@ -1,5 +1,5 @@
 {
-    "name": "libra/zendframework-empty",
+    "name": "libra/zendframework-codeless",
     "description": "Zend Framework 2 dummy repo to low disk space by using zf2 as global library, as example in dir: /usr/share/php/Zendframework",
     "type": "library",
     "keywords": [
