@@ -22,7 +22,6 @@
         "zendframework/zendservice-recaptcha": "ZendService\\ReCaptcha for rendering ReCaptchas in Zend\\Captcha and/or Zend\\Form"
     },
     "replace": {
-        "libra/zendframework-minimal": "self.version",
-        "zendframework/zendframework": "self.version"
-	}
+        "libra/zendframework-minimal": "self.version"
+    }
 }
